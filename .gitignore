@@ -1,0 +1,24 @@
+# Visual Studio / MSBuild temporary folders
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.userprefs
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Database files
+localdb.sqlite
+*.db-journal
+*.db-shm
+*.db-wal
+
+# Rider / Resharper
+.idea/
+*.sln.iml
+
+# Scratch and test files
+scratch/
+docs/resultado_testes*.txt
+

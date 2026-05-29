@@ -1,0 +1,4 @@
+Pedido;Cliente;NumeroProducao;Status;Quantidade;DataProducao;MaquinaId;FichaTecnicaId
+OS-2026-901;Acme Corporation;963000000000201;Aguardando;15;2026-05-28 10:00:00;1;1
+OS-2026-902;Metalúrgica Silva;963000000000202;Em Andamento;30;2026-05-28 10:30:00;1;2
+OS-2026-903;Brindes Express;963000000000203;Finalizada;5;2026-05-28 11:00:00;2;3

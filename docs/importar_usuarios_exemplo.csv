@@ -1,0 +1,4 @@
+Nome;Login;CodigoAcesso;NivelMaster;Ativo
+Operador Joao;joao;7777;0;1
+Supervisora Maria;maria;8888;1;1
+Operador Inativo;inativo;6666;0;0
